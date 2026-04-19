@@ -1,0 +1,54 @@
+{
+  "personas": [
+    {
+      "patient_id": "CN_F_58_001",
+      "display_name": "Ms. Lin",
+      "country_or_culture": "China",
+      "age_group": "50+",
+      "gender": "female",
+      "interests": [
+        "cooking",
+        "family",
+        "shopping",
+        "weather"
+      ],
+      "daily_routines": [
+        "cook breakfast",
+        "go market",
+        "call daughter"
+      ],
+      "communication_goals": [
+        "daily needs",
+        "family chat"
+      ],
+      "aphasia_severity": "severe",
+      "system_familiarity": 0.42,
+      "fatigue_sensitivity": 1.12
+    },
+    {
+      "patient_id": "DK_M_29_001",
+      "display_name": "Mr. Mads",
+      "country_or_culture": "Denmark",
+      "age_group": "20-35",
+      "gender": "male",
+      "interests": [
+        "football",
+        "friends",
+        "gym",
+        "coffee"
+      ],
+      "daily_routines": [
+        "bike commute",
+        "gym",
+        "coffee with friends"
+      ],
+      "communication_goals": [
+        "social chat",
+        "daily planning"
+      ],
+      "aphasia_severity": "moderate",
+      "system_familiarity": 0.68,
+      "fatigue_sensitivity": 0.92
+    }
+  ]
+}
